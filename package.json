@@ -1,0 +1,19 @@
+{
+  "name": "nft-dapp",
+  "version": "1.0.0",
+  "description": "NFT minting DAPP",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/george-shammar/NFT-DAPP.git"
+  },
+  "author": "George Shammer",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/george-shammar/NFT-DAPP/issues"
+  },
+  "homepage": "https://github.com/george-shammar/NFT-DAPP#readme"
+}
